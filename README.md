@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Anh!
 - 👀  I’m interested in networking and learning more about your projects.
-- 🌱  I’m currently learning about GitHub and the way it can be used with ClickUp.
+- 🌱  I’m currently learning the incredible ways that GitHub can be integrated into ClickUp.
 - 💞️  I’m looking to collaborate on any and all projects relating to Productivity.
 - 📫  You can reach me at anh@happyvietnamese.com.
 
